@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CaseStudy</string>
+    <string name="sing_in_to_platform">Sign in to !!!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cont">Continue</string>
+    <string name="meditations">Meditations</string>
+    <string name="stories">Stories</string>
+    <string name="banner_msg">Look. Pretty, isn’t it? %s Perfectly balanced. As all things should be.</string>
+    <string name="meditation_detail">Meditation Detail</string>
+    <string name="story_detail">Story Detail</string>
+
+    <string name="error_general_msg">Somethig went wrong :(</string>
+    <string name="error_username">User name must be longer two characters</string>
+    <string name="error_password">Password should consist minimum 6 characters with at least 1 uppercase character, 1 number</string>
+
+</resources>
